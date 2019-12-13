@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the github repositiory for my medium blogpost for "Content based Image Retrieval Using Auto-Encoders". 
+This is the github repositiory for my medium blogpost for "Content based Image Retrieval Using Auto-Encoders". https://medium.com/@osas.usen/content-based-image-retrieval-using-auto-encoders-a6359a2a05c6
 
 
 ### Dependencies
